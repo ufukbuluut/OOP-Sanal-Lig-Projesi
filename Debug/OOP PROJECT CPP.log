@@ -1,0 +1,16 @@
+﻿  OOP PROJECT CPP.cpp
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(558,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(561,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(584,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(597,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(614,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(625,38): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(626,38): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(668,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(682,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(733,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(744,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(757,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(763,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\OOP PROJECT CPP\OOP PROJECT CPP.cpp(779,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  OOP PROJECT CPP.vcxproj -> C:\Users\ufukb\Desktop\OOP Project Tek CPP\OOP PROJECT CPP\Debug\OOP PROJECT CPP.exe
